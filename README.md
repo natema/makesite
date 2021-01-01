@@ -1,6 +1,6 @@
 # makesite.py
 
-This is the source code of [my webpage](https://enatale.name).
+This is a minimal version of the files I use to generate [my webpage](http://enatale.name) (as for 2021-01-01).
 
 The license text of the original `makesite.py` is included below.
 
